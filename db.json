@@ -1,11 +1,177 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "status": 200,
+    "message": "All Ads Details",
+    "data": [
+        {
+            "listing_id": "103",
+            "title": "AlienWare Laptop [8gb ram, Nvidia Titan Z]",
+            "price": "$800",
+            "created_at": "2019-04-03 05:55:30",
+            "location": "Jammu and Kashmir,India",
+            "image": "http://192.168.1.249/nkhlah/latest/uploads/images/listings/d33804laptops-under-500-lowres-9990.jpg",
+            "is_favorite": "0"
+        },
+        {
+            "listing_id": "104",
+            "title": "Used Computer With 16 gb ram",
+            "price": "$350",
+            "created_at": "2019-04-03 05:59:21",
+            "location": "Assam,India",
+            "image": "http://192.168.1.249/nkhlah/latest/uploads/images/listings/b1feeaf686495c8ce903414cac3822a3f060563bbcec04.jpg",
+            "is_favorite": "0"
+        },
+        {
+            "listing_id": "105",
+            "title": "Brand New Asus Computer! (32 gb ram + i7 5.6 ghz processor)",
+            "price": "$1200",
+            "created_at": "2019-04-03 06:03:48",
+            "location": "Arunachal Pradesh,India",
+            "image": "http://192.168.1.249/nkhlah/latest/uploads/images/listings/8df8cdmaxresdefault.jpg",
+            "is_favorite": "0"
+        },
+        {
+            "listing_id": "106",
+            "title": "Beautiful King Size Beds",
+            "price": "$1500",
+            "created_at": "2019-04-03 06:12:35",
+            "location": "Assam,India",
+            "image": "http://192.168.1.249/nkhlah/latest/uploads/images/listings/d8eec2Bedroom-Furniture-Sets.jpg",
+            "is_favorite": "0"
+        },
+        {
+            "listing_id": "107",
+            "title": "Beautiful Collectible Brown Ivory Tables",
+            "price": "$400",
+            "created_at": "2019-04-03 06:38:38",
+            "location": "Tripura,India",
+            "image": "http://192.168.1.249/nkhlah/latest/uploads/images/listings/61317fbasque-honey-dining-tables.jpg",
+            "is_favorite": "0"
+        },
+        {
+            "listing_id": "108",
+            "title": "Sofa Set [4 pcs]",
+            "price": "$200",
+            "created_at": "2019-04-03 06:42:39",
+            "location": "Himachal Pradesh,India",
+            "image": "http://192.168.1.249/nkhlah/latest/uploads/images/listings/e9967cdownload.jpg",
+            "is_favorite": "0"
+        },
+        {
+            "listing_id": "110",
+            "title": "Brand New Monster Trucks",
+            "price": "$15000",
+            "created_at": "2019-04-03 06:52:13",
+            "location": "Delhi,India",
+            "image": "http://192.168.1.249/nkhlah/latest/uploads/images/listings/9a261a41945424_-_18_03_2017_-_saudi-auto-entertainment_0.jpg",
+            "is_favorite": "0"
+        },
+        {
+            "listing_id": "111",
+            "title": "Selling My 4 years Old Pick Up Truck",
+            "price": "$8000",
+            "created_at": "2019-04-03 06:57:46",
+            "location": "Maharashtra,India",
+            "image": "http://192.168.1.249/nkhlah/latest/uploads/images/listings/f7b0baa8a80859e2114516bb04a0c10955ceec_c0x697-4488x1926.jpg",
+            "is_favorite": "0"
+        },
+        {
+            "listing_id": "113",
+            "title": "Trucks[Brand-New]",
+            "price": "$30000",
+            "created_at": "2019-04-03 07:05:34",
+            "location": "Nagaland,India",
+            "image": "http://192.168.1.249/nkhlah/latest/uploads/images/listings/abd020faszination-show-truck-header.jpg",
+            "is_favorite": "0"
+        },
+        {
+            "listing_id": "123",
+            "title": "sofa",
+            "price": "Rs12000",
+            "created_at": "2019-04-08 11:31:39",
+            "location": "Goa,India",
+            "image": "http://192.168.1.249/nkhlah/latest/uploads/images/listings/3927cesofa2.jpg",
+            "is_favorite": "0"
+        },
+        {
+            "listing_id": "136",
+            "title": "Car",
+            "price": "Rs500000",
+            "created_at": "2019-04-09 10:50:31",
+            "location": "Goa,India",
+            "image": "http://192.168.1.249/nkhlah/latest/uploads/images/listings/0c2b2bcar.jpg",
+            "is_favorite": "0"
+        },
+        {
+            "listing_id": "175",
+            "title": "Redmi 5 (Gold, 3GB RAM, 32GB Storage)",
+            "price": "Rs6000",
+            "created_at": "2019-04-11 05:57:40",
+            "location": "Gujarat,India",
+            "image": "http://192.168.1.249/nkhlah/latest/uploads/images/listings/43de7dmobile.jpg",
+            "is_favorite": "0"
+        },
+        {
+            "listing_id": "178",
+            "title": "Toyota Innova",
+            "price": "Rs1000000",
+            "created_at": "2019-04-11 10:24:38",
+            "location": "Goa,India",
+            "image": "http://192.168.1.249/nkhlah/latest/uploads/images/listings/bd8193Toyota.jpg",
+            "is_favorite": "0"
+        },
+        {
+            "listing_id": "179",
+            "title": "Krishna Apartment",
+            "price": "Rs3500000",
+            "created_at": "2019-04-11 10:35:28",
+            "location": "Gujarat,India",
+            "image": "http://192.168.1.249/nkhlah/latest/uploads/images/listings/85fdf6Apartment.jpg",
+            "is_favorite": "0"
+        },
+        {
+            "listing_id": "182",
+            "title": "Fashion Economy",
+            "price": "$1000",
+            "created_at": "2019-04-11 10:44:42",
+            "location": "Goa,India",
+            "image": "http://192.168.1.249/nkhlah/latest/uploads/images/listings/b0b138fashion.jpg",
+            "is_favorite": "0"
+        },
+        {
+            "listing_id": "183",
+            "title": "TATA TRUCK",
+            "price": "Rs50000",
+            "created_at": "2019-04-12 06:02:15",
+            "location": "Gujarat,India",
+            "image": "http://192.168.1.249/nkhlah/latest/uploads/images/listings/52a2e0truck.jpg",
+            "is_favorite": "0"
+        },
+        {
+            "listing_id": "184",
+            "title": "New arrival yellow teenage girls princess dresses.",
+            "price": "$1000",
+            "created_at": "2019-04-12 06:29:32",
+            "location": "Alabama,United States",
+            "image": "http://192.168.1.249/nkhlah/latest/uploads/images/listings/cc7c65princess-frock.jpg",
+            "is_favorite": "0"
+        },
+        {
+            "listing_id": "185",
+            "title": "Samsung Galaxy M10 (Charcoal Black)",
+            "price": "Rs7990",
+            "created_at": "2019-04-19 07:31:39",
+            "location": "Gujarat,India",
+            "image": "http://192.168.1.249/nkhlah/latest/uploads/images/listings/d96954p3.jpg",
+            "is_favorite": "0"
+        },
+        {
+            "listing_id": "187",
+            "title": "POST",
+            "price": "CA$380007",
+            "created_at": "2019-04-22 10:40:51",
+            "location": "Badakhshan,Afghanistan",
+            "image": "http://192.168.1.249/nkhlah/latest/uploads/images/listings/b955f1Untitled.png",
+            "is_favorite": "0"
+        }
+    ]
 }
